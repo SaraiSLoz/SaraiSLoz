@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m a computer engineering student at Tecnologico de Monterrey<br>🤝 I'm Looking to collaborate on Web Development and cybersecurity projects<br>🌱 I’m currently learning React<br>🔎 Im interested in Fullstack and Mobile Development<br>📒 An enthusiast of competitive programming<br><br><br>
+💻 I’m a computer engineering student at Tecnologico de Monterrey<br>🤝 I'm Looking to collaborate on Web Development and cybersecurity projects<br>🔎 Im interested in Fullstack and Mobile Development<br>📒 An enthusiast of competitive programming<br><br><br>
 
 
 ## 🌐 Socials:
